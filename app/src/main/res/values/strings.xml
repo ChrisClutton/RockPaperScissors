@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="Computer_Waiting">Computer waiting...</string>
+    <string name="Computer_Wins">Computer Wins - Humans Loses</string>
+    <string name="Computer_Loses">Humans Wins - Computer Loses</string>
+    <string name="Ready">Ready...</string>
+    <string name="Click_to_Play">Click to Play</string>
+    <string name="Waiting_For_Player">Rock, Paper or Scissors?</string>
+    <string name="Game_Title">Rock, Paper, Scissors</string>
+    <string name="Draw">Draw</string>
+</resources>
